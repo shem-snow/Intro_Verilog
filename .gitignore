@@ -5,6 +5,7 @@
 *.sdc
 *.bak
 *.rpt
+*.bsf
 
 # Ignore specific directories (anywhere in the project)
 db/

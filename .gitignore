@@ -1,0 +1,14 @@
+# Ignore specific file types
+*.qsf
+*.qpf
+*.qws
+*.sdc
+*.bak
+*.rpt
+
+# Ignore specific directories (anywhere in the project)
+db/
+incremental_db/
+output_files/
+simulation/
+
